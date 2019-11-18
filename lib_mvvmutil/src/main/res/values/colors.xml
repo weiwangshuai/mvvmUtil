@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorTheme">#f00</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorTabText">#585858</color>
+</resources>
